@@ -8,7 +8,7 @@ package test.version.one;
 public class Helper {
     public void integerProcessor (int intInput) {
         if (intInput <= 7) {
-            System.out.println("Hello");
+            System.out.println("Привет");
         } else System.out.println("Вы вввели " + intInput);
     }
 
